@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/SneheePatel/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br><br>
-<!--img src="https://github.com/Snehee2901/Snehee2901/blob/main/cover.jpg" width="1050" height="200"-->
+<img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="1050" height="200">
 <h2>About Me</h2><br>
 - 👀 I’m interested in Data Science, Machine Learning and a bit of web development.<br>
 - 🌱 I’m currently learning Deep Learning.<br>
@@ -38,6 +38,7 @@
 <br>
 <h2>My Github Stats</h2>
 <img align="center" alt="Snehee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Snehee2901&theme=synthwave&show_icons=true&count_private=true" />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehee2901&theme=tokyonight&layout=compact"/>
 <!---
 Snehee2901/Snehee2901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
