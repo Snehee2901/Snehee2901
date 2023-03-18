@@ -29,15 +29,15 @@
 <h4>Frameworks:</h4>
 <div style="display:inline-block">
  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="35"/></a>
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="35"/></a>&nbsp;&nbsp;
  <a href="https://jupyter-notebook.readthedocs.io/en/stable/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="35"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/docs/git">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/></a>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/></a>&nbsp;&nbsp;
  <a href="https://www.djangoproject.com/">
-  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="35"/></a>
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="35"/></a>&nbsp;&nbsp;
  <a href="https://flask.palletsprojects.com/en/2.2.x/">
-  <img src="https://miro.medium.com/v2/resize:fit:800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" width="35"/></a>
+  <img src="https://miro.medium.com/v2/resize:fit:800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" width="35"/></a>&nbsp;&nbsp;
 </div>
 <br>
 <h2>My Github Stats</h2>
