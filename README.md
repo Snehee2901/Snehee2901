@@ -35,7 +35,7 @@
   <a href="https://git-scm.com/docs/git">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/></a>
  <a href="https://www.djangoproject.com/">
-  <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" width="35"/></a>
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="35"/></a>
  <a href="https://flask.palletsprojects.com/en/2.2.x/">
   <img src="https://miro.medium.com/v2/resize:fit:800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" width="35"/></a>
 </div>
