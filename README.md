@@ -9,7 +9,6 @@
 <h2>About Me</h2><br>
 - 👀 I’m interested in Data Science, Machine Learning and a bit of web development.<br>
 - 🌱 I’m currently learning Deep Learning.<br>
-- 🎯 2021 goals: Do multiple projects.<br>
 - ⚡ Fun fact: Traveller, foddie..
 <br><br>
 <h2>My Tech Toolkit</h2>
@@ -35,6 +34,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="35"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/docs/git">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/></a>
+ <a href="https://www.djangoproject.com/">
+  <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png" width="35"/></a>
+ <a href="https://flask.palletsprojects.com/en/2.2.x/">
+  <img src="https://miro.medium.com/v2/resize:fit:800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" width="35"/></a>
 </div>
 <br>
 <h2>My Github Stats</h2>
