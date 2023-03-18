@@ -23,7 +23,8 @@
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="35" height="35"></a>&nbsp;&nbsp;
  <a href="https://docs.python.org/3/">
 <img src = "https://camo.githubusercontent.com/8189f2ee1a17bae39d5d80aac35701add11c79eacc3a84eaf4971d63998e87a0/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732d61646f62652f3531322f3236375f507974686f6e2d3531322e706e67" width = "35"/> </a>
- 
+ <a href="https://docs.oracle.com/en/java/">
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbranditechture.agency%2Fbrand-logos%2Fdownload%2Fjava-2%2F&psig=AOvVaw2wYok7auikvEU7529LRNhx&ust=1679235256005000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDrnPnU5f0CFQAAAAAdAAAAABAE" width ="35" height ="35"></a>
 </div>
 
 <h4>Frameworks:</h4>
