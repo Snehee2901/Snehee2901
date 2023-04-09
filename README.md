@@ -42,7 +42,7 @@
 <br>
 <h2>My Github Stats</h2>
 <img align="center" alt="Snehee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Snehee2901&theme=synthwave&show_icons=true&count_private=true" />
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehee2901&theme=tokyonight&layout=compact"/>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehee2901&theme=tokyonight&layout=compact&count_private=true"/>
 <!---
 Snehee2901/Snehee2901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
