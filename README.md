@@ -15,13 +15,17 @@
 <h4>Programming Languages: </h4>
 <div style = "display: inline-block">
 <a href="https://devdocs.io/html/">
-<img src= "https://camo.githubusercontent.com/309bd1d3bd253dff456421a439882e5189b95a839120f0555d7172ff277e99c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672f35313270782d48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" width = "35"/></a>&nbsp;&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width = "35"/></a>&nbsp;&nbsp;
 <a href="https://devdocs.io/css/">
-<img src = "https://camo.githubusercontent.com/cf001d2a684fad204e899dab911627fbe9180dbaf26f89c432f438a375e88e6a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f435353335f6c6f676f5f616e645f776f72646d61726b2e7376672f3132303070782d435353335f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" width = "25" height = "35"></a>&nbsp;&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width = "35" height = "45"></a>&nbsp;&nbsp;
+ <a href="https://devdocs.io/css/](https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width = "35" height = "45"></a>&nbsp;&nbsp;
 <a href="https://devdocs.io/c/">
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="35" height="35"></a>&nbsp;&nbsp;
+ <a href="https://react.dev/">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35" height="35"></a>&nbsp;&nbsp;
  <a href="https://docs.python.org/3/">
-<img src = "https://camo.githubusercontent.com/8189f2ee1a17bae39d5d80aac35701add11c79eacc3a84eaf4971d63998e87a0/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732d61646f62652f3531322f3236375f507974686f6e2d3531322e706e67" width = "35"/> </a>
+<img src = "https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" width = "35"/> </a>
  <a href="https://docs.oracle.com/en/java/">
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width ="35" height ="35"></a>
 </div>
